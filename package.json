@@ -34,7 +34,7 @@
     "eslint-config-tschaub": "^2.0.0",
     "in-publish": "^2.0.0",
     "lab": "^6.2.0",
-    "uglify-js": "^2.4.24",
+    "uglify-js": "^2.5.0",
     "watchy": "^0.6.2"
   }
 }
